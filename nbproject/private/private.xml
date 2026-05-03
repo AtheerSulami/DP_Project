@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/DatabaseManager.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/Room.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/LoginFrame.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/Faculty.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/BookingClient.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/BookingService.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/RegisterDialog.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/MainDashboard.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/RoomDetails.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/PasswordUtil.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/Main.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/PermitWriter.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/BookingServer.java</file>
+            <file>file:/Users/arwa/NetBeansProjects/Phase3/src/phase3/ConfirmationFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
